@@ -2,8 +2,8 @@
 
 	defined('YProtect') or die('Вы не имеете доступа к этому файлу.');
 
-	define('MYSQL_HOST','localhost');
-	define('MYSQL_USER','root');
+	define('MYSQL_HOST','localhost:7777');
+	define('MYSQL_USER','');
 	define('MYSQL_PASS','');
 	define('MYSQL_BASE','');
 
